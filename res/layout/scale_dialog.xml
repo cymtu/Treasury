@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/SizeDialogLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_dialog"
+    android:minWidth="300dp"
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <TableLayout
+       android:id="@+id/tableLayout"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="10dp"
+       android:stretchColumns="1" >
+
+      <TableRow android:orientation="horizontal"
+         android:layout_width="match_parent" 
+         android:layout_height="wrap_content">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center_vertical"
+             android:gravity="right"
+             android:text="@string/scale"
+             android:textColor="#000" />
+
+         <SeekBar
+             android:id="@+id/scaleSeekBar"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:max="27"
+             android:paddingLeft="10dp"
+             android:paddingRight="10dp" />
+
+         <TextView
+             android:id="@+id/tscale"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center_vertical"
+             android:gravity="right"
+             android:text="000"
+             android:textColor="#000" />
+
+      </TableRow>
+
+      <TableRow
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal" >
+
+      </TableRow>                   
+   </TableLayout>
+   <Button
+       android:id="@+id/setScaleButton"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal"
+       android:text="@string/button_scale" />
+</LinearLayout>

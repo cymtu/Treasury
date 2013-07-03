@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">Сокровищница</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_treasury">Сокровищница</string>
+    <string name="menu_newgame">Новая игра</string>
+    <string name="menu_records">Рекорды</string> 
+    <string name="s9x9">9x9</string>
+    <string name="s9x18">9x18</string>
+    <string name="s14x18">14x18</string>
+    <string name="s13x13">13x13</string>
+    <string name="s13x26">13x26</string>
+    <string name="s20x26">20x26</string>            
+    <string name="s18x18">18x18</string>
+    <string name="s18x36">18x36</string>
+    <string name="s27x36">27x36</string>             
+    <string name="Single">Одиночная игра</string>            
+    <string name="Beginner">Новичок</string>
+    <string name="Expert">Эксперт</string>         
+    <string name="Professional">Профи</string>             
+    <string name="button_set">OK</string>
+    <string name="levelAI">Уровень ИИ</string>      
+    <string name="sizeBoard">Размер Поля</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="reset_game">Новая игра</string>
+    <string name="cancel">Отмена</string>
+    <string name="results_format">     Ходов: %1$d \nСчет: %2$s</string>
+    <string name="button_scale">Применить</string>
+    <string name="scale">Масштаб</string>
+    <string name="menu_scale">Масштаб</string>
+    <string name="title_scale_dialog">Выберите масштаб</string><string name="title_records_dialog">Рекорды</string>
+    <string name="title_dialog">Настройки</string>
+    <string name="Computer">Компьютер</string>
+    <string name="Player">Игрок</string>
+    <string name="InputName">Введите свое имя</string>
+    <string name="butAiPrev">&lt; ИИ</string>
+    <string name="butAiNext">ИИ &gt;</string>
+    <string name="butSizePrev">&lt; РАЗМЕР</string>
+    <string name="butSizeNext">РАЗМЕР &gt;</string>
+    <string name="button_reset">СБРОС</string>
+    <string name="button_ok">OK</string>
+</resources>

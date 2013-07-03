@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">Treasury</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_treasury">Treasury</string>
+    <string name="menu_newgame">New game</string>
+    <string name="menu_records">Records</string> 
+    <string name="s9x9">9x9</string>
+    <string name="s9x18">9x18</string>
+    <string name="s14x18">14x18</string>
+    <string name="s13x13">13x13</string>
+    <string name="s13x26">13x26</string>
+    <string name="s20x26">20x26</string>            
+    <string name="s18x18">18x18</string>
+    <string name="s18x36">18x36</string>
+    <string name="s27x36">27x36</string>             
+    <string name="Single">Single game</string>            
+    <string name="Beginner">Beginner</string>
+    <string name="Expert">Expert</string>         
+    <string name="Professional">Professional</string>             
+    <string name="button_set">OK</string>
+    <string name="levelAI">Level AI</string>      
+    <string name="sizeBoard">Size Board</string>
+    <string name="game_over">Game Over</string>
+    <string name="reset_game">New game</string>
+    <string name="cancel">Cancel</string>
+    <string name="results_format">     Courses: %1$d \nCount: %2$s</string>
+    <string name="button_scale">Set Scale</string>
+    <string name="scale">Scale</string>
+    <string name="menu_scale">Scale</string>
+    <string name="title_scale_dialog">Choose Scale</string><string name="title_records_dialog">Records</string>
+    <string name="title_dialog">Setting</string>
+    <string name="Computer">Computer</string>
+    <string name="Player">Player</string>
+    <string name="InputName">Input your name</string>
+    <string name="butAiPrev">&lt; AI</string>
+    <string name="butAiNext">AI &gt;</string>
+    <string name="butSizePrev">&lt; SIZE</string>
+    <string name="butSizeNext">SIZE &gt;</string>
+    <string name="button_reset">RESET</string>
+    <string name="button_ok">OK</string>
+</resources>
